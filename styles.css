@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; /* Optional: Set a background color */
+    font-family: Arial, sans-serif; /* Optional: Set a font */
+}
+
+h1 {
+    font-size: 6rem; /* Large text size */
+    color: red; /* Optional: Change text color */
+    text-align: center;
+}
